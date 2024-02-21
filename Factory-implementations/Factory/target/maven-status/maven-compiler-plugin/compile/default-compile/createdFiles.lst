@@ -1,0 +1,12 @@
+com\mycompany\factory\Main.class
+com\mycompany\factory\Pago.class
+com\mycompany\factory\PagoBitcoin.class
+com\mycompany\factory\PagoGooglePay.class
+com\mycompany\factory\PagoPayPal.class
+com\mycompany\factory\PagoApplePay.class
+com\mycompany\factory\PagoFactory.class
+com\mycompany\factory\PagoTarjetaDebito.class
+com\mycompany\factory\PagoEfectivo.class
+com\mycompany\factory\PagoTransferenciaBancaria.class
+com\mycompany\factory\PagoTarjetaCredito.class
+com\mycompany\factory\TipoDePago.class
